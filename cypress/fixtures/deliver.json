@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Laura Moreira",
+        "cpf": "64989682058",
+        "email": "moreira@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "17022014",
+            "street": "Rua José Jarbas Saconato",
+            "number": "0204",
+            "details": "Ap 202",
+            "district": "Parque City",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":
+    {
+        "name": "Laura Moreira",
+        "cpf": "6498968205A",
+        "email": "luara@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "17022014",
+            "street": "Rua José Jarbas Saconato",
+            "number": "0204",
+            "details": "Ap 202",
+            "district": "Parque City",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Laura Moreira",
+        "cpf": "64989682058",
+        "email": "moreira.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "17022014",
+            "street": "Rua José Jarbas Saconato",
+            "number": "0204",
+            "details": "Ap 202",
+            "district": "Parque City",
+            "city_state": "Bauru/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
